@@ -5,6 +5,7 @@
   "main": "api/index.js",
   "type": "module",
   "scripts": {
+    "build": "npm run build",
     "start": "node api/index.js",
     "vercel": "vercel dev",
     "cloudflare": "wrangler dev"
