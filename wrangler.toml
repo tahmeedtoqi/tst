@@ -1,3 +1,10 @@
 name = "auto-reaction-bot"
 main = "api/worker.js"
 compatibility_date = "2024-06-02"
+
+[vars]
+BOT_TOKEN = "7535414181:AAFrYvezBwjQhjP5vnxm-BgBadH1DSM4avc"
+BOT_USERNAME = "opsufshfkxvhBot"
+EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
+RANDOM_LEVEL = "3"
+RESTRICTED_CHATS = "1234,5678"

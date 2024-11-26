@@ -17,5 +17,8 @@
   },
   "engines": {
     "node": "22.x"
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
   }
 }
